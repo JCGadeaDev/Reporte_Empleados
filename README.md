@@ -1,6 +1,6 @@
 # 📊 Reporte de Caracterización de Empleados – Power BI
 
-Este proyecto presenta un análisis visual interactivo desarrollado en **Power BI**, que permite caracterizar la fuerza laboral de una organización simulada de **1,470 empleados**. El objetivo es brindar una visión clara de los datos demográficos, académicos y laborales del personal, facilitando la toma de decisiones basadas en indicadores clave (KPIs).
+Este proyecto presenta un análisis visual interactivo desarrollado en **Power BI**, que permite caracterizar la fuerza laboral de una organización de **1,470 empleados**. El objetivo es brindar una visión clara de los datos demográficos, académicos y laborales del personal, facilitando la toma de decisiones basadas en indicadores clave (KPIs).
 
 ---
 
